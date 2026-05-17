@@ -1,0 +1,22 @@
+# Modèles entraînés
+*.pth
+*.h5
+*.pkl
+*.pt
+*.ckpt
+
+# Données
+*.csv
+*.zip
+*.gz
+*.parquet
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Divers
+.env
+.DS_Store
